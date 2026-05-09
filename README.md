@@ -1,1 +1,25 @@
-"# tp-0-presentacion-vcuchallo-utn" 
+# tp-0-presentacion-vcuchallo-utn
+## Valentino Cuchallo Estrabiz
+Legajo: 232.948-7
+
+Me llamo Valentino, me pueden decir Valen o Tino jajaja.
+
+![Yo :)](fotoVal.jpg)
+
+Me gusta el voley, aunque actualmente no ando jugando tanto. Me gusta el anime, no tengo preferidos, pero me gustan mucho 
+- BNHA
+- Kimetsu no Yaiba
+- Obviamente DBZ (esencia)
+
+Tambien todo tipo de series relacionadas con super heroes
+- Soy muy fan de Marvel (aunque muchas de las pelis actuales me estan decepcionando)
+- Me vi Invencible
+- Ahora arranque a ver The Boys que me esta agradando.
+
+Relacionado a la carrera, siempre me gustó programar bastante. Este gusto inició desde la primaria, que hacia jueguitos en scratch con un amigo. 
+
+Respecto a la actualidad del mundo, le tengo un amor/odio a la IA, se que va a poder facilitar gran parte del trabajo de la programacion (que es algo que me encanta hacer (aunque esta divertido ser un Vibe Coder)), pero a su vez me fascinan las cosas que se pueden llegar a lograr al utilizarla.
+
+Me gustaría, al terminar este año, poder insertarme en el mundo laboral y estar al tanto de todas las actualizaciones y herramientas que se usen en el mercado.
+
+Espero aprender mucho en esta materia y me agrada la buena onda de la profe y los ayudantes. ¡Gracias!
