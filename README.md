@@ -21,6 +21,7 @@ También todo tipo de series relacionadas con super héroes
 
 ### Opinion de pastafrola
 Membrillo y batata, depende mucho. La verdad es que es un debate que nunca se va a poder terminar. En mi opinión, la de membrillo es una clásica, no tiene comparación, pero he de admitir que, frente al prejuicio que le tenía a la de batata, es muy rica, suave y delicada. Ambas me parecen muy buenas y ricas, pero creo que he llegado a mi conclusión final.
+
 **Conclusion:** Torta de ricota
 
 ## Carrera
