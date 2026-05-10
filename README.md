@@ -10,6 +10,7 @@ Me llamo Valentino, me pueden decir Valen o Tino jajaja.
 
 Me gusta el vóley, aunque actualmente no ando jugando tanto. Me gusta el anime, no tengo preferidos, pero me gustan mucho 
 - BNHA
+- Jujustsu Kaisen
 - Kimetsu no Yaiba
 - Obviamente DBZ (esencia)
 
