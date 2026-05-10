@@ -6,19 +6,25 @@ Me llamo Valentino, me pueden decir Valen o Tino jajaja.
 
 ![Yo :)](fotoVal.jpg)
 
-Me gusta el voley, aunque actualmente no ando jugando tanto. Me gusta el anime, no tengo preferidos, pero me gustan mucho 
+## Gustos
+
+Me gusta el vóley, aunque actualmente no ando jugando tanto. Me gusta el anime, no tengo preferidos, pero me gustan mucho 
 - BNHA
 - Kimetsu no Yaiba
 - Obviamente DBZ (esencia)
 
-Tambien todo tipo de series relacionadas con super heroes
-- Soy muy fan de Marvel (aunque muchas de las pelis actuales me estan decepcionando)
+También todo tipo de series relacionadas con super héroes
+- Soy muy fan de Marvel (aunque muchas de las pelis actuales me están decepcionando)
 - Me vi Invencible
-- Ahora arranque a ver The Boys que me esta agradando.
+- Ahora arranque a ver The Boys que me está agradando.
 
-Relacionado a la carrera, siempre me gustó programar bastante. Este gusto inició desde la primaria, que hacia jueguitos en scratch con un amigo. 
+## Carrera
 
-Respecto a la actualidad del mundo, le tengo un amor/odio a la IA, se que va a poder facilitar gran parte del trabajo de la programacion (que es algo que me encanta hacer (aunque esta divertido ser un Vibe Coder)), pero a su vez me fascinan las cosas que se pueden llegar a lograr al utilizarla.
+Relacionado a la carrera, siempre me gustó programar bastante. Este gusto inició desde la primaria, que hacía jueguitos en scratch con un amigo. 
+
+Respecto a la actualidad del mundo, le tengo un amor/odio a la IA, sé que va a poder facilitar gran parte del trabajo de la programación (que es algo que me encanta hacer (aunque esta divertido ser un Vibe Coder)), pero a su vez me fascinan las cosas que se pueden llegar a lograr al utilizarla.
+
+## Expectativas
 
 Me gustaría, al terminar este año, poder insertarme en el mundo laboral y estar al tanto de todas las actualizaciones y herramientas que se usen en el mercado.
 
