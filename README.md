@@ -19,6 +19,10 @@ También todo tipo de series relacionadas con super héroes
 - Me vi Invencible
 - Ahora arranque a ver The Boys que me está agradando.
 
+### Opinion de pastafrola
+Membrillo y batata, depende mucho. La verdad es que es un debate que nunca se va a poder terminar. En mi opinión, la de membrillo es una clásica, no tiene comparación, pero he de admitir que, frente al prejuicio que le tenía a la de batata, es muy rica, suave y delicada. Ambas me parecen muy buenas y ricas, pero creo que he llegado a mi conclusión final.
+**Conclusion:** Torta de ricota
+
 ## Carrera
 
 Relacionado a la carrera, siempre me gustó programar bastante. Este gusto inició desde la primaria, que hacía jueguitos en scratch con un amigo. 
